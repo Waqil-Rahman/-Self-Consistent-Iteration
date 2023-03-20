@@ -1,4 +1,4 @@
-# Numerical_Computing
+# Numerical Computing
 C/C++ Scripts for Mathematical Modelling
 
 This project provides an introduction to programming using C and C++, with examples designed to show how computers can be used to solve practical problems in a wide range of different fields.
