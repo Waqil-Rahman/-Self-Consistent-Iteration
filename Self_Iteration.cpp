@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Question 1
+//  Self_Iteration
 //
 //  Created by Waqil Rahman on 08/04/2022.
 //
