@@ -16,3 +16,5 @@ I have also implemented object-oriented programming techniques such as:
 - Inheritance
 
 The application of these scripts range from mathematics, the physical sciences and finance.
+
+I have also included a report on how each of the scrpits work with an explanation of each of their context on how they can be utlised.
